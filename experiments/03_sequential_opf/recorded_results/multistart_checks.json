@@ -1,0 +1,34 @@
+[
+  {
+    "hour": 4,
+    "start_frequency_hz": 5.0,
+    "accepted": true,
+    "loss_mw": 25.718750194924425,
+    "message": "Optimization terminated successfully",
+    "difference_from_primary_mw": -1.195336594150831e-07
+  },
+  {
+    "hour": 4,
+    "start_frequency_hz": 20.0,
+    "accepted": true,
+    "loss_mw": 25.718750187183687,
+    "message": "Optimization terminated successfully",
+    "difference_from_primary_mw": -1.2727439724358192e-07
+  },
+  {
+    "hour": 17,
+    "start_frequency_hz": 5.0,
+    "accepted": true,
+    "loss_mw": 26.533823001196232,
+    "message": "Optimization terminated successfully",
+    "difference_from_primary_mw": -4.337085357519754e-08
+  },
+  {
+    "hour": 17,
+    "start_frequency_hz": 20.0,
+    "accepted": true,
+    "loss_mw": 26.533822873263844,
+    "message": "Optimization terminated successfully",
+    "difference_from_primary_mw": -1.7130324181380274e-07
+  }
+]

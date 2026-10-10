@@ -1,0 +1,19 @@
+{
+  "frequency_dependent": {
+    "frequency_hz": 7.760049802490329,
+    "loss_mw": 26.533823044567086
+  },
+  "constant_R10": {
+    "frequency_hz": 7.919054633538868,
+    "loss_mw": 26.541514127595644,
+    "accepted": true,
+    "verification": {
+      "reference_residual_pu": 5.019663296135235e-10,
+      "max_voltage_error_pu": 2.9143782621566927e-12,
+      "max_converter_power_error_pu": 1.5496555158766618e-10,
+      "nfev": 86,
+      "verified": true
+    }
+  },
+  "note": "Constant-R is closer to the P1 approximation; primary study uses interpolated P3-derived R(f). Neither is an exact replication of P1 data."
+}

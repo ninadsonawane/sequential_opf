@@ -1,0 +1,11 @@
+{
+  "errors": {
+    "vh": 2.397189753326237e-11,
+    "vl": 2.860979249076398e-16,
+    "vd": 3.241851231905457e-14,
+    "ss": 2.3405801049243876e-10
+  },
+  "first_native_call_seconds": 0.17383809998864308,
+  "common_base_case_match": true,
+  "notes": "Equipment-rating limits differ; equations agree at the same inputs."
+}

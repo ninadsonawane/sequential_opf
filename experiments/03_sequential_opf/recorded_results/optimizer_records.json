@@ -1,0 +1,1130 @@
+[
+  {
+    "hour": 0,
+    "case": "A",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 9,
+      "pf_evaluations": 186,
+      "wall_seconds": 0.31097849999787286,
+      "objective": 0.00838999642876395
+    }
+  },
+  {
+    "hour": 0,
+    "case": "B",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 21,
+      "nfev": 38,
+      "pf_evaluations": 794,
+      "pf_seconds": 1.1208125009434298,
+      "wall_seconds": 1.330058200052008,
+      "objective": 25.953711062561283,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 0,
+    "case": "C",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 14,
+      "nfev": 30,
+      "pf_evaluations": 562,
+      "pf_seconds": 0.7822518003522418,
+      "wall_seconds": 0.9285786999971606,
+      "objective": 25.90390691787435,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 1,
+    "case": "A",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 21,
+      "pf_evaluations": 417,
+      "wall_seconds": 0.7127842999761924,
+      "objective": 0.010190650460970443
+    }
+  },
+  {
+    "hour": 1,
+    "case": "B",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 22,
+      "nfev": 38,
+      "pf_evaluations": 829,
+      "pf_seconds": 1.2165403986582533,
+      "wall_seconds": 1.4522016000119038,
+      "objective": 25.885373083698315,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 1,
+    "case": "C",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 15,
+      "nfev": 32,
+      "pf_evaluations": 602,
+      "pf_seconds": 0.8298899989458732,
+      "wall_seconds": 0.9885795000009239,
+      "objective": 25.835588995461077,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 2,
+    "case": "A",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 12,
+      "pf_evaluations": 245,
+      "wall_seconds": 0.4158624999690801,
+      "objective": 0.012169258590247912
+    }
+  },
+  {
+    "hour": 2,
+    "case": "B",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 21,
+      "nfev": 39,
+      "pf_evaluations": 791,
+      "pf_seconds": 1.14752919919556,
+      "wall_seconds": 1.3610702999867499,
+      "objective": 25.823417418338913,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 2,
+    "case": "C",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 14,
+      "nfev": 31,
+      "pf_evaluations": 561,
+      "pf_seconds": 0.7720259993802756,
+      "wall_seconds": 0.9148073000251316,
+      "objective": 25.773734362590695,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 3,
+    "case": "A",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 12,
+      "pf_evaluations": 245,
+      "wall_seconds": 0.4305496999877505,
+      "objective": 0.013213191904936252
+    }
+  },
+  {
+    "hour": 3,
+    "case": "B",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 21,
+      "nfev": 40,
+      "pf_evaluations": 795,
+      "pf_seconds": 1.0985940987011418,
+      "wall_seconds": 1.3065461000078358,
+      "objective": 25.795016131208726,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 3,
+    "case": "C",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 13,
+      "nfev": 28,
+      "pf_evaluations": 522,
+      "pf_seconds": 0.7030767995165661,
+      "wall_seconds": 0.8389198000077158,
+      "objective": 25.74538373214546,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 4,
+    "case": "A",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 12,
+      "pf_evaluations": 245,
+      "wall_seconds": 0.41272680001566187,
+      "objective": 0.014295328396358258
+    }
+  },
+  {
+    "hour": 4,
+    "case": "B",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 22,
+      "nfev": 39,
+      "pf_evaluations": 828,
+      "pf_seconds": 1.162397699430585,
+      "wall_seconds": 1.3854167999816127,
+      "objective": 25.768332330905395,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 4,
+    "case": "C",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 13,
+      "nfev": 28,
+      "pf_evaluations": 520,
+      "pf_seconds": 0.7236182997003198,
+      "wall_seconds": 0.8643074000137858,
+      "objective": 25.718750314458084,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 5,
+    "case": "A",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 12,
+      "pf_evaluations": 245,
+      "wall_seconds": 0.41937670001061633,
+      "objective": 0.013213191904936252
+    }
+  },
+  {
+    "hour": 5,
+    "case": "B",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 21,
+      "nfev": 40,
+      "pf_evaluations": 795,
+      "pf_seconds": 1.1324951000860892,
+      "wall_seconds": 1.3469897999893874,
+      "objective": 25.795016131208726,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 5,
+    "case": "C",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 13,
+      "nfev": 28,
+      "pf_evaluations": 522,
+      "pf_seconds": 0.7064507994218729,
+      "wall_seconds": 0.8434417000389658,
+      "objective": 25.74538373214546,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 6,
+    "case": "A",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 10,
+      "pf_evaluations": 207,
+      "wall_seconds": 0.36810060002608225,
+      "objective": 0.009275114921902066
+    }
+  },
+  {
+    "hour": 6,
+    "case": "B",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 21,
+      "nfev": 37,
+      "pf_evaluations": 792,
+      "pf_seconds": 1.1471384993637912,
+      "wall_seconds": 1.3563527000369504,
+      "objective": 25.918893863702383,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 6,
+    "case": "C",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 15,
+      "nfev": 33,
+      "pf_evaluations": 603,
+      "pf_seconds": 0.8698601999785751,
+      "wall_seconds": 1.0329360000323504,
+      "objective": 25.869077836119992,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 7,
+    "case": "A",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 8,
+      "pf_evaluations": 166,
+      "wall_seconds": 0.2980900999973528,
+      "objective": 0.005993372907618531
+    }
+  },
+  {
+    "hour": 7,
+    "case": "B",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 21,
+      "nfev": 39,
+      "pf_evaluations": 795,
+      "pf_seconds": 1.1708583015133627,
+      "wall_seconds": 1.386128899990581,
+      "objective": 26.06528698648104,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 7,
+    "case": "C",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 14,
+      "nfev": 30,
+      "pf_evaluations": 562,
+      "pf_seconds": 0.8585720001137815,
+      "wall_seconds": 1.0162537999567576,
+      "objective": 26.01551815710247,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 8,
+    "case": "A",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 9,
+      "pf_evaluations": 184,
+      "wall_seconds": 0.32648729998618364,
+      "objective": 0.0039850585601005125
+    }
+  },
+  {
+    "hour": 8,
+    "case": "B",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 21,
+      "nfev": 39,
+      "pf_evaluations": 795,
+      "pf_seconds": 1.1701255988446064,
+      "wall_seconds": 1.3814789000316523,
+      "objective": 26.187555083501383,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 8,
+    "case": "C",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 13,
+      "nfev": 29,
+      "pf_evaluations": 523,
+      "pf_seconds": 0.7513538995408453,
+      "wall_seconds": 0.8867936999886297,
+      "objective": 26.137821552520514,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 9,
+    "case": "A",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 14,
+      "pf_evaluations": 281,
+      "wall_seconds": 0.5112759000039659,
+      "objective": 0.00287711884481589
+    }
+  },
+  {
+    "hour": 9,
+    "case": "B",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 22,
+      "nfev": 39,
+      "pf_evaluations": 831,
+      "pf_seconds": 1.201226800098084,
+      "wall_seconds": 1.4208527999580838,
+      "objective": 26.2750109595264,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 9,
+    "case": "C",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 14,
+      "nfev": 30,
+      "pf_evaluations": 562,
+      "pf_seconds": 0.7897641996387392,
+      "wall_seconds": 0.9360637999488972,
+      "objective": 26.225300915790505,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 10,
+    "case": "A",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 12,
+      "pf_evaluations": 243,
+      "wall_seconds": 0.45044409995898604,
+      "objective": 0.0023958758295357517
+    }
+  },
+  {
+    "hour": 10,
+    "case": "B",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 22,
+      "nfev": 39,
+      "pf_evaluations": 831,
+      "pf_seconds": 1.1904887999407947,
+      "wall_seconds": 1.4071005000150762,
+      "objective": 26.32089579403126,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 10,
+    "case": "C",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 16,
+      "nfev": 33,
+      "pf_evaluations": 641,
+      "pf_seconds": 0.9091262998408638,
+      "wall_seconds": 1.079680900031235,
+      "objective": 26.271193818927745,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 11,
+    "case": "A",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 9,
+      "pf_evaluations": 184,
+      "wall_seconds": 0.3310224000015296,
+      "objective": 0.0021753955755878405
+    }
+  },
+  {
+    "hour": 11,
+    "case": "B",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 22,
+      "nfev": 39,
+      "pf_evaluations": 831,
+      "pf_seconds": 1.1694293998880312,
+      "wall_seconds": 1.3840741000021808,
+      "objective": 26.344663246510617,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 11,
+    "case": "C",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 14,
+      "nfev": 30,
+      "pf_evaluations": 562,
+      "pf_seconds": 0.8373098006704822,
+      "wall_seconds": 0.9997225999832153,
+      "objective": 26.294964935630563,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 12,
+    "case": "A",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 4,
+      "pf_evaluations": 81,
+      "wall_seconds": 0.1443102000048384,
+      "objective": 0.001972963476447574
+    }
+  },
+  {
+    "hour": 12,
+    "case": "B",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 23,
+      "nfev": 39,
+      "pf_evaluations": 867,
+      "pf_seconds": 1.2420138999586925,
+      "wall_seconds": 1.465376699983608,
+      "objective": 26.368984410589977,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 12,
+    "case": "C",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 13,
+      "nfev": 28,
+      "pf_evaluations": 522,
+      "pf_seconds": 0.7385419997153804,
+      "wall_seconds": 0.8769160999800079,
+      "objective": 26.31928969885784,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 13,
+    "case": "A",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 12,
+      "pf_evaluations": 243,
+      "wall_seconds": 0.46692219999386,
+      "objective": 0.0023958758295357517
+    }
+  },
+  {
+    "hour": 13,
+    "case": "B",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 22,
+      "nfev": 39,
+      "pf_evaluations": 831,
+      "pf_seconds": 1.214546800358221,
+      "wall_seconds": 1.4326930999523029,
+      "objective": 26.32089579403126,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 13,
+    "case": "C",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 16,
+      "nfev": 33,
+      "pf_evaluations": 641,
+      "pf_seconds": 0.9193139997660182,
+      "wall_seconds": 1.0888130000093952,
+      "objective": 26.271193818927745,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 14,
+    "case": "A",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 14,
+      "pf_evaluations": 281,
+      "wall_seconds": 0.49953590001678094,
+      "objective": 0.00287711884481589
+    }
+  },
+  {
+    "hour": 14,
+    "case": "B",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 22,
+      "nfev": 39,
+      "pf_evaluations": 831,
+      "pf_seconds": 1.1786631997674704,
+      "wall_seconds": 1.3895812000264414,
+      "objective": 26.2750109595264,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 14,
+    "case": "C",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 14,
+      "nfev": 30,
+      "pf_evaluations": 562,
+      "pf_seconds": 0.8061786998878233,
+      "wall_seconds": 0.9618586000287905,
+      "objective": 26.225300915790505,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 15,
+    "case": "A",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 4,
+      "pf_evaluations": 81,
+      "wall_seconds": 0.14593779999995604,
+      "objective": 0.001972963476447574
+    }
+  },
+  {
+    "hour": 15,
+    "case": "B",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 23,
+      "nfev": 39,
+      "pf_evaluations": 867,
+      "pf_seconds": 1.2520323999342509,
+      "wall_seconds": 1.479871199990157,
+      "objective": 26.368984410589977,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 15,
+    "case": "C",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 13,
+      "nfev": 28,
+      "pf_evaluations": 522,
+      "pf_seconds": 0.7376080995891243,
+      "wall_seconds": 0.8755985000170767,
+      "objective": 26.31928969885784,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 16,
+    "case": "A",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 9,
+      "pf_evaluations": 183,
+      "wall_seconds": 0.31461509998189285,
+      "objective": 0.0009632600483729143
+    }
+  },
+  {
+    "hour": 16,
+    "case": "B",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 21,
+      "nfev": 37,
+      "pf_evaluations": 793,
+      "pf_seconds": 1.1666655999142677,
+      "wall_seconds": 1.3777628999669105,
+      "objective": 26.52654009822701,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 16,
+    "case": "C",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 13,
+      "nfev": 28,
+      "pf_evaluations": 522,
+      "pf_seconds": 0.7230742996907793,
+      "wall_seconds": 0.8591003000037745,
+      "objective": 26.476867146626454,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 17,
+    "case": "A",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 9,
+      "pf_evaluations": 184,
+      "wall_seconds": 0.33506680000573397,
+      "objective": 0.0007314221003268575
+    }
+  },
+  {
+    "hour": 17,
+    "case": "B",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 23,
+      "nfev": 41,
+      "pf_evaluations": 869,
+      "pf_seconds": 1.245854199572932,
+      "wall_seconds": 1.4675994000281207,
+      "objective": 26.583488750863815,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 17,
+    "case": "C",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 16,
+      "nfev": 33,
+      "pf_evaluations": 641,
+      "pf_seconds": 0.8974251003819518,
+      "wall_seconds": 1.061711499991361,
+      "objective": 26.533823044567086,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 18,
+    "case": "A",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 6,
+      "pf_evaluations": 124,
+      "wall_seconds": 0.21799730003112927,
+      "objective": 0.000841813937684106
+    }
+  },
+  {
+    "hour": 18,
+    "case": "B",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 21,
+      "nfev": 38,
+      "pf_evaluations": 794,
+      "pf_seconds": 1.16790819959715,
+      "wall_seconds": 1.3709566000034101,
+      "objective": 26.55473754515534,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 18,
+    "case": "C",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 15,
+      "nfev": 32,
+      "pf_evaluations": 602,
+      "pf_seconds": 0.8524075000314042,
+      "wall_seconds": 1.011955299996771,
+      "objective": 26.505068057092164,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 19,
+    "case": "A",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 9,
+      "pf_evaluations": 183,
+      "wall_seconds": 0.3253796999924816,
+      "objective": 0.0014071404048316943
+    }
+  },
+  {
+    "hour": 19,
+    "case": "B",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 20,
+      "nfev": 38,
+      "pf_evaluations": 758,
+      "pf_seconds": 1.083539999439381,
+      "wall_seconds": 1.2850616999785416,
+      "objective": 26.44527033383259,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 19,
+    "case": "C",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 13,
+      "nfev": 28,
+      "pf_evaluations": 522,
+      "pf_seconds": 0.7262642997084185,
+      "wall_seconds": 0.864382800005842,
+      "objective": 26.39558654962428,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 20,
+    "case": "A",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 12,
+      "pf_evaluations": 243,
+      "wall_seconds": 0.4621566000278108,
+      "objective": 0.0023958758295357517
+    }
+  },
+  {
+    "hour": 20,
+    "case": "B",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 22,
+      "nfev": 39,
+      "pf_evaluations": 831,
+      "pf_seconds": 1.278555800090544,
+      "wall_seconds": 1.5199456000118516,
+      "objective": 26.32089579403126,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 20,
+    "case": "C",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 16,
+      "nfev": 33,
+      "pf_evaluations": 641,
+      "pf_seconds": 1.128293601097539,
+      "wall_seconds": 1.346295299998019,
+      "objective": 26.271193818927745,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 21,
+    "case": "A",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 9,
+      "pf_evaluations": 183,
+      "wall_seconds": 0.36416140000801533,
+      "objective": 0.003691185121426744
+    }
+  },
+  {
+    "hour": 21,
+    "case": "B",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 21,
+      "nfev": 38,
+      "pf_evaluations": 794,
+      "pf_seconds": 1.285448599839583,
+      "wall_seconds": 1.5274633999797516,
+      "objective": 26.208973175827516,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 21,
+    "case": "C",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 13,
+      "nfev": 29,
+      "pf_evaluations": 523,
+      "pf_seconds": 0.8018920999020338,
+      "wall_seconds": 0.9534033999661915,
+      "objective": 26.15924556244873,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 22,
+    "case": "A",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 17,
+      "pf_evaluations": 341,
+      "wall_seconds": 0.6395498000201769,
+      "objective": 0.0052718798509345955
+    }
+  },
+  {
+    "hour": 22,
+    "case": "B",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 21,
+      "nfev": 38,
+      "pf_evaluations": 794,
+      "pf_seconds": 1.2442270006868057,
+      "wall_seconds": 1.4797860000398941,
+      "objective": 26.1048546369226,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 22,
+    "case": "C",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 14,
+      "nfev": 30,
+      "pf_evaluations": 562,
+      "pf_seconds": 0.8763530999422073,
+      "wall_seconds": 1.0448991000303067,
+      "objective": 26.05509754773157,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 23,
+    "case": "A",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 8,
+      "pf_evaluations": 166,
+      "wall_seconds": 0.3168733000056818,
+      "objective": 0.006750192372034936
+    }
+  },
+  {
+    "hour": 23,
+    "case": "B",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 20,
+      "nfev": 39,
+      "pf_evaluations": 759,
+      "pf_seconds": 1.455030900775455,
+      "wall_seconds": 1.7494968000100926,
+      "objective": 26.026907363916287,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  },
+  {
+    "hour": 23,
+    "case": "C",
+    "optimizer": {
+      "accepted": true,
+      "solver_success": true,
+      "message": "Optimization terminated successfully",
+      "iterations": 14,
+      "nfev": 30,
+      "pf_evaluations": 562,
+      "pf_seconds": 0.9508366994559765,
+      "wall_seconds": 1.1269025999936275,
+      "objective": 25.977126762684854,
+      "voltage_weight": 0.0,
+      "voltage_deviation_weight": 0.0
+    }
+  }
+]

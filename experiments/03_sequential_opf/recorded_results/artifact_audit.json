@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "operating_points": 72,
+  "planning_points": 10,
+  "constraint_records": 12816,
+  "generator_export_conservation_error_mw": 2.255609388157609e-08,
+  "loss_component_error_mw": 7.105427357601002e-15,
+  "station_loss_export_error_mw": 3.552713678800501e-15,
+  "independent_operating_checks": 6,
+  "independent_planning_checks": 10,
+  "benchmark_batches": 40,
+  "local_report_links": 59,
+  "missing_links": [],
+  "source_hashes_match": true
+}

@@ -1,0 +1,21 @@
+{
+  "workers": 2,
+  "native_library_threads": 1,
+  "persistent_pools": true,
+  "preloaded_case_data": true,
+  "synchronized_process_initialization": true,
+  "excluded_JIT_and_pool_startup": true,
+  "opf_repeats": 3,
+  "pf_repeats": 7,
+  "opf_workload": "Two independent peak-hour optimizations B and C, identical fixed starting vectors across backends.",
+  "pf_workload": "Exactly72 already-solved hourly A/B/C control vectors; identical profiles, tolerances, numerical method and complete PF work.",
+  "compiled_scope": "GS+Anderson AND converter/DC/outer PF coordination; optimizer remains SciPy SLSQP.",
+  "threads_parallelize": "Independent scenario/OPF tasks; no parallelization of sequential GS bus updates.",
+  "no_ml_inference": true,
+  "authors_code_used": false,
+  "authors_exact_dataset": false,
+  "complete_opf_reference_error_units": "MW loss objective; states can differ among equivalent local optima",
+  "fixed_work_reference_error_units": "pu complex bus voltage or converter power",
+  "random_method_order": true,
+  "samples": 40
+}

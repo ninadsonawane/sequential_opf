@@ -1,0 +1,13 @@
+{
+  "planning_weight": 0.1,
+  "continuous_peak_voltage_kv": 266.92279451000405,
+  "candidate_voltage_ratings_kv": [
+    138.0,
+    230.0,
+    345.0,
+    500.0
+  ],
+  "selected_rating_kv": 345.0,
+  "fixed_frequency_baseline_hz": 10,
+  "rule": "Next declared design voltage not below peak planning result; all hourly solutions rechecked."
+}

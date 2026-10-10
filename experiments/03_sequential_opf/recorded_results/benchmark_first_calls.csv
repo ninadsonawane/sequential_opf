@@ -1,0 +1,9 @@
+scope,method,first_call_seconds
+complete_opf_peak_B_C,python_process,16.156727400026284
+complete_opf_peak_B_C,numba_serial,2.5532218999578618
+complete_opf_peak_B_C,numba_process,3.4097206000005826
+complete_opf_peak_B_C,numba_thread,1.8149574999697506
+fixed_work_72_solved_PF_points,python_process,2.1959273999673314
+fixed_work_72_solved_PF_points,numba_serial,0.15494689997285604
+fixed_work_72_solved_PF_points,numba_process,1.863109899975825
+fixed_work_72_solved_PF_points,numba_thread,0.0708953000139445

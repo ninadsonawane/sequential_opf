@@ -1,0 +1,56 @@
+[
+  {
+    "hour": 4,
+    "case": "A",
+    "reference_residual_pu": 3.359921230128293e-10,
+    "max_voltage_error_pu": 9.903917001223927e-12,
+    "max_converter_power_error_pu": 2.4753924002918576e-10,
+    "nfev": 86,
+    "verified": true
+  },
+  {
+    "hour": 4,
+    "case": "B",
+    "reference_residual_pu": 1.8443194194084356e-10,
+    "max_voltage_error_pu": 4.926185889388727e-12,
+    "max_converter_power_error_pu": 1.5154383747213204e-10,
+    "nfev": 86,
+    "verified": true
+  },
+  {
+    "hour": 4,
+    "case": "C",
+    "reference_residual_pu": 1.910144542538461e-10,
+    "max_voltage_error_pu": 2.699585630297226e-12,
+    "max_converter_power_error_pu": 1.1424659421959872e-10,
+    "nfev": 86,
+    "verified": true
+  },
+  {
+    "hour": 17,
+    "case": "A",
+    "reference_residual_pu": 1.1174794423141066e-10,
+    "max_voltage_error_pu": 2.9498421787085002e-12,
+    "max_converter_power_error_pu": 4.569730984872771e-11,
+    "nfev": 87,
+    "verified": true
+  },
+  {
+    "hour": 17,
+    "case": "B",
+    "reference_residual_pu": 4.762577276995472e-10,
+    "max_voltage_error_pu": 6.510840132952648e-12,
+    "max_converter_power_error_pu": 2.0188971937574096e-10,
+    "nfev": 86,
+    "verified": true
+  },
+  {
+    "hour": 17,
+    "case": "C",
+    "reference_residual_pu": 5.020981963532734e-10,
+    "max_voltage_error_pu": 2.91455225107012e-12,
+    "max_converter_power_error_pu": 1.5395243296870765e-10,
+    "nfev": 86,
+    "verified": true
+  }
+]

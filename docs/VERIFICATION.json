@@ -1,0 +1,62 @@
+{
+  "verified_date_ist": "2026-10-11",
+  "setup": "Fresh Python 3.12 venv; pip install requirements-lock.txt",
+  "quick_checks_passed": true,
+  "full_reproduction_passed": true,
+  "stage1_converged_benchmark_batches": 126,
+  "stage2_benchmark_batches": 378,
+  "stage3_benchmark_batches": 40,
+  "stage2_public_checks": [
+    {
+      "case": "Stagg5",
+      "source_data_exact": true,
+      "p3_modified_case": false,
+      "python_iterations": 13,
+      "numba_iterations": 13,
+      "max_mismatch_pu": 1.354512890738846e-10,
+      "independent_nr_phasor_error_pu": 6.961289704605312e-12,
+      "python_numba_phasor_difference_pu": 4.47545209131181e-16
+    },
+    {
+      "case": "IEEE14",
+      "source_data_exact": true,
+      "p3_modified_case": false,
+      "python_iterations": 23,
+      "numba_iterations": 23,
+      "max_mismatch_pu": 1.9408936263731746e-10,
+      "independent_nr_phasor_error_pu": 1.5955523122294537e-11,
+      "python_numba_phasor_difference_pu": 1.2474579732659882e-15
+    }
+  ],
+  "stage3_artifact_audit": {
+    "passed": true,
+    "operating_points": 72,
+    "planning_points": 10,
+    "constraint_records": 12816,
+    "generator_export_conservation_error_mw": 2.255609388157609e-08,
+    "loss_component_error_mw": 7.105427357601002e-15,
+    "station_loss_export_error_mw": 3.552713678800501e-15,
+    "independent_operating_checks": 6,
+    "independent_planning_checks": 10,
+    "benchmark_batches": 40,
+    "local_report_links": 57,
+    "missing_links": [],
+    "source_hashes_match": true
+  },
+  "max_hourly_loss_difference_from_recorded_mw": 0.0,
+  "numerical_input_sha256": "7685f801b3c33642e4517b4a6954c5b046cd32d3a02da99a70a16a1f87eab130",
+  "dependency_lock_sha256": "cde01895955622247c0675ea7fb6a42d802b1179c1d50c036600ba63d956bd2c",
+  "environment": {
+    "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+    "numpy": "2.3.5",
+    "scipy": "1.18.1",
+    "numba": "0.68.0",
+    "llvmlite": "0.50.0",
+    "matplotlib": "3.11.2",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",
+    "native_library_threads": 1
+  },
+  "timing_interpretation": "Fresh run verifies correctness; raw warm timings vary by hardware/load and are not expected to match baseline.",
+  "new_run_outputs": "Ignored per-stage results/; preserved baseline under recorded_results/"
+}
