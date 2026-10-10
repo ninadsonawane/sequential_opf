@@ -1,0 +1,19 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "scipy": "1.18.1",
+  "numba": "0.68.0",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "first_native_call_seconds": 0.1899462000001222,
+  "untimed_python_validation_seconds": 0.020525500003714114,
+  "numba_flags": {
+    "cache": true,
+    "nogil": true,
+    "fastmath": false
+  },
+  "source_sha256": {
+    "model.py": "78c0aaa80ee76180e100691f6bc66fd86d775edda9820ce550bd68447172119c",
+    "published.py": "29e14e40c168cc946f16dd4cb771a0cefc2ca617cd10cd5176a94c319731cfa4",
+    "sources/case5_stagg.m": "a5ddb00c1116d8991e23006271d3ff362cdb5673a97fab8e466d47450d14a7ff"
+  }
+}

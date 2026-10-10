@@ -1,0 +1,30 @@
+{
+  "workers": 2,
+  "repeats": 21,
+  "randomized_method_order": true,
+  "persistent_pools": true,
+  "preloaded_process_inputs": true,
+  "all_workers_synchronized_before_timing": true,
+  "native_library_threads": 1,
+  "full_solver_parallel_stage": "only initial independent HVAC solves, Fig5 step1",
+  "full_solver_remaining_stages": "coupled HVAC/LFAC solves, VSC updates and DC coordination run serially",
+  "input_sha256": "e5a57fb634bc85c831539c81fffc7a2adf3bd8a9b24447f62719216cac7c27ef",
+  "algorithm": "same solve_impl Python/Numba function; GS+Anderson depth8",
+  "initialization": "flat per independent grid, then initial solutions for coupled HVAC stage",
+  "inner_tolerance": 1e-09,
+  "outer_tolerance": 1e-08,
+  "exclude_JIT_and_pool_startup": true,
+  "start_method": "spawn",
+  "numba_flags": {
+    "cache": true,
+    "nogil": true,
+    "fastmath": false
+  },
+  "authors_code_used": false,
+  "paper_full_case_exact": false,
+  "exact_public_cases_used": [
+    "unmodified Stagg5",
+    "unmodified IEEE14"
+  ],
+  "samples": 378
+}

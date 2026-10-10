@@ -1,0 +1,43 @@
+{
+  "full_system_numerically_verified": true,
+  "exact_paper_reproduction": false,
+  "topology": "5 HVAC + 14 HVAC + 3 LFAC + 3 DC = 25 buses, seven VSCs",
+  "outer_iterations": 4,
+  "total_sweeps": 145,
+  "lfac_line_loss_mw": 2.0274062550008853,
+  "paper_lfac_line_loss_mw": 2.03,
+  "lfac_angle20_deg": 2.3498581888173593,
+  "paper_lfac_angle20_deg": 2.35,
+  "max_hvac_angle_error_deg": 7.976522290316285,
+  "max_hvac_vm_error_pu": 0.011785550976430637,
+  "max_lfac_vm_error_pu": 0.00041100143869776673,
+  "max_dc_vm_error_pu": 0.002273407504407965,
+  "converter_current_violations": [
+    1,
+    4,
+    6
+  ],
+  "voltage_magnitudes_within_table_rounding": 13,
+  "exact_public_cases_checked": [
+    {
+      "case": "Stagg5",
+      "source_data_exact": true,
+      "p3_modified_case": false,
+      "python_iterations": 13,
+      "numba_iterations": 13,
+      "max_mismatch_pu": 1.354512890738846e-10,
+      "independent_nr_phasor_error_pu": 6.961289704605312e-12,
+      "python_numba_phasor_difference_pu": 4.47545209131181e-16
+    },
+    {
+      "case": "IEEE14",
+      "source_data_exact": true,
+      "p3_modified_case": false,
+      "python_iterations": 23,
+      "numba_iterations": 23,
+      "max_mismatch_pu": 1.9408936263731746e-10,
+      "independent_nr_phasor_error_pu": 1.5955523122294537e-11,
+      "python_numba_phasor_difference_pu": 1.2474579732659882e-15
+    }
+  ]
+}

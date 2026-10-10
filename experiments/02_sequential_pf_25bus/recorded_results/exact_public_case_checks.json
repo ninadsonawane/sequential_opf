@@ -1,0 +1,22 @@
+[
+  {
+    "case": "Stagg5",
+    "source_data_exact": true,
+    "p3_modified_case": false,
+    "python_iterations": 13,
+    "numba_iterations": 13,
+    "max_mismatch_pu": 1.354512890738846e-10,
+    "independent_nr_phasor_error_pu": 6.961289704605312e-12,
+    "python_numba_phasor_difference_pu": 4.47545209131181e-16
+  },
+  {
+    "case": "IEEE14",
+    "source_data_exact": true,
+    "p3_modified_case": false,
+    "python_iterations": 23,
+    "numba_iterations": 23,
+    "max_mismatch_pu": 1.9408936263731746e-10,
+    "independent_nr_phasor_error_pu": 1.5955523122294537e-11,
+    "python_numba_phasor_difference_pu": 1.2474579732659882e-15
+  }
+]

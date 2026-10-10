@@ -1,0 +1,25 @@
+{
+  "created_utc": "2026-10-09T08:46:37.018931+00:00",
+  "sources": [
+    {
+      "name": "P3 supplied PDF",
+      "url": "https://doi.org/10.1016/j.ijepes.2026.112025",
+      "redistributed": false,
+      "sha256": "1fc9e324e2c3daf93493844e3ad8686c7cab2b6414f758639baae6fb5e62b864"
+    },
+    {
+      "name": "Official MatACDC Stagg5 source",
+      "url": "https://www.esat.kuleuven.be/electa/teaching/matacdc",
+      "redistributed": false,
+      "sha256": "a5ddb00c1116d8991e23006271d3ff362cdb5673a97fab8e466d47450d14a7ff"
+    },
+    {
+      "name": "Official MATPOWER IEEE14 source",
+      "url": "https://raw.githubusercontent.com/MATPOWER/matpower/master/data/case14.m",
+      "redistributed": false,
+      "sha256": "2ffc4e1b734ae6c5e92dbe68b4e36010ed695a4bbcc4d065c74c4fbc39fcf3c1"
+    }
+  ],
+  "authors_input_files_obtained": false,
+  "author_message_sent": false
+}

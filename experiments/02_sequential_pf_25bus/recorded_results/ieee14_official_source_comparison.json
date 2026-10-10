@@ -1,0 +1,8 @@
+{
+  "bus_max_abs": 0.0,
+  "gen_max_abs": 0.0,
+  "electrical_branch_max_abs": 0.0,
+  "thermal_rating_max_abs": 9900.0,
+  "thermal_ratings_used_in_this_pf": false,
+  "official_file_sha256": "2ffc4e1b734ae6c5e92dbe68b4e36010ed695a4bbcc4d065c74c4fbc39fcf3c1"
+}

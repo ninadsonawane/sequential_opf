@@ -1,0 +1,31 @@
+{
+  "python": {
+    "ac_max_mismatch_pu": 8.202289958347819e-10,
+    "dc_max_mismatch_pu": 1.983413433492842e-12,
+    "b2b_max_imbalance_pu": 1.506816893481755e-11,
+    "global_power_balance_error_mw": -1.5361646399369988e-07,
+    "independent_max_ac_phasor_error_pu": 3.132624134501572e-11,
+    "independent_max_dc_voltage_error_pu": 2.83550960489265e-13,
+    "independent_max_converter_power_error_pu": 3.45452965480645e-10,
+    "independent_equation_residual_pu": 8.146776586670512e-10,
+    "numerically_verified": true
+  },
+  "numba": {
+    "ac_max_mismatch_pu": 8.199523282570453e-10,
+    "dc_max_mismatch_pu": 1.9847457011223923e-12,
+    "b2b_max_imbalance_pu": 1.497113544246531e-11,
+    "global_power_balance_error_mw": -1.5362612848512924e-07,
+    "independent_max_ac_phasor_error_pu": 3.1332945757670594e-11,
+    "independent_max_dc_voltage_error_pu": 2.83550960489265e-13,
+    "independent_max_converter_power_error_pu": 3.445494186586873e-10,
+    "independent_equation_residual_pu": 8.146776586670512e-10,
+    "numerically_verified": true
+  },
+  "python_numba_max_voltage_difference_pu": 1.706067863422247e-14,
+  "python_outer_iterations": 4,
+  "numba_outer_iterations": 4,
+  "python_total_sweeps": 145,
+  "numba_total_sweeps": 145,
+  "reference_nfev": 87,
+  "paper_exact_reproduction": false
+}

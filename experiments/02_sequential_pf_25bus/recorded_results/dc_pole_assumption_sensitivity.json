@@ -1,0 +1,21 @@
+{
+  "reason": "P3 presents mono/bipole equations but does not identify case configuration.",
+  "single_effective_pole": {
+    "dc_voltage": [
+      1.012273407504408,
+      1.0,
+      0.9995162624401316
+    ],
+    "vsc2_ps_mw": 89.03410451384381,
+    "dc_line_loss_mw": 2.4237135909642715
+  },
+  "two_effective_poles": {
+    "dc_voltage": [
+      1.0061877593909836,
+      1.0,
+      0.9997845472657187
+    ],
+    "vsc2_ps_mw": 90.20989830087194,
+    "dc_line_loss_mw": 1.2262637518961839
+  }
+}

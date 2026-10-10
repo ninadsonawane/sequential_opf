@@ -1,0 +1,9 @@
+{
+  "generation_mw": 2153.5466601931635,
+  "demand_mw": 2120.0,
+  "hvac_line_loss_mw": 10.994968284015393,
+  "lfac_line_loss_mw": 2.0274062550008853,
+  "dc_line_loss_mw": 2.4237135909642715,
+  "station_loss_mw": 18.10057221679946,
+  "total_loss_mw": 33.54666034678001
+}
