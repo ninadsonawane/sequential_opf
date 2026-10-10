@@ -1,0 +1,7 @@
+# Tested with Python 3.12.14. Dependency-distributed IEEE cases come from PYPOWER.
+numpy==2.3.5
+scipy==1.18.1
+numba==0.68.0
+llvmlite==0.50.0
+PYPOWER==5.1.21
+matplotlib==3.11.2
